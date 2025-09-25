@@ -1,0 +1,2 @@
+# apprendimento_automatico_e_apprendimento_profondo
+Repository per i progetti degli studenti
